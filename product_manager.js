@@ -71,14 +71,6 @@ const products = [
     stock: 12,
     rating: 4.6,
   },
-  {
-    id: 10,
-    name: "ThinkPad X1",
-    price: 32990000,
-    category: "laptop",
-    stock: 3,
-    rating: 4.5,
-  },
 ];
 
 function formatPrice(price) {
