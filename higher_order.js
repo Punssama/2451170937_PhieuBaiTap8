@@ -53,7 +53,6 @@ console.log(expensiveCalc(1000000));
 const search = debounce((query) => {
   console.log("Searching:", query);
 }, 500);
-search("js");
 search("javascript");
 
 (async () => {
