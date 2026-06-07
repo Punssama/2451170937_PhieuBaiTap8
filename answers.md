@@ -1,5 +1,3 @@
-# BÀI LÀM — PBT 08
-
 ### Câu A1 — Function Declaration vs Expression vs Arrow
 
 **1) Function Declaration**
