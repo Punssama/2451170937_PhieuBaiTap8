@@ -15,7 +15,7 @@ function createCart() {
   }
 
   function formatMoney(value) {
-    return value.toLocaleString("vi-VN") + "đ";
+    return value.toLocaleString("vi-VN") + "k";
   }
 
   return {
