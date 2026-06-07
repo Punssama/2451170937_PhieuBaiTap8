@@ -66,6 +66,6 @@ search("javascript");
   console.log(await retry(demo, 3));
 })();
 
-if (typeof module !== "undefined") {
+if (typeof module !== "undefine") {
   module.exports = { pipe, memoize, debounce, retry };
 }
